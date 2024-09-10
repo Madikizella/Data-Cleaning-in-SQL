@@ -1,2 +1,2 @@
-# Data-Cleaning-in-SQL
-This repository contains SQL queries and scripts focused on data cleaning techniques for improving data quality and consistency
+# Data Cleaning in SQL
+This is my first project on GitHub. This repository contains SQL queries and scripts focused on data cleaning techniques for improving data quality and consistency. The project's purpose is to demonstrate how to identify and correct data issues, such as duplicates, missing values, and formatting inconsistencies. Key features include handling null or blank values, removing duplicates, standardizing data formats, removing unnecessary rows and columns and optimizing the data for analysis.
